@@ -1,0 +1,28 @@
+body      {
+   background-color: aquamarine;
+}
+
+header{
+    background-color:#434242;
+    height: 200px;
+    font-size: 50px;
+   text-align: center;
+   line-height: 200px;
+}
+
+nav{
+    background-color: darkgrey;
+    height: 150px;
+}
+section{
+    background-color: whitesmoke;
+    height: 250px;
+}
+h1{
+    color: white;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 100px;
+}
